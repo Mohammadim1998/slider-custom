@@ -1,0 +1,24 @@
+.bgCustom2 {
+    border-radius: 0px 0px 15px 15px;
+    /*background: linear-gradient(180deg, rgb(87, 86, 86) 0%, rgba(36, 36, 36, 0.905) 100%);*/
+    background: linear-gradient(180deg, rgba(36, 36, 36, 0.7) 0%, rgba(24, 24, 24, 1) 100%);
+
+}
+
+
+.anim2 {
+    animation: animate2 1s ease;
+}
+
+@keyframes animate2 {
+    0% {
+        opacity: 0;
+    }
+    90% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}

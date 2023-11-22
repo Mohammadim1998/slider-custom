@@ -1,0 +1,69 @@
+@font-face {
+    font-family: "ANJOMAN-BLACK";
+    src: url("/fonts/ANJOMAN-BLACK.TTF");
+}
+
+@font-face {
+    font-family: "ANJOMAN-BOLD";
+    src: url("/fonts/ANJOMAN-BOLD.TTF");
+}
+
+@font-face {
+    font-family: "ANJOMAN-EXTRABOLD";
+    src: url("/fonts/ANJOMAN-EXTRABOLD.TTF");
+}
+
+@font-face {
+    font-family: "ANJOMAN-EXTRALIGHT";
+    src: url("/fonts/ANJOMAN-EXTRALIGHT.TTF");
+}
+
+@font-face {
+    font-family: "ANJOMAN-HEAVY";
+    src: url("/fonts/ANJOMAN-HEAVY.TTF");
+}
+
+@font-face {
+    font-family: "ANJOMAN-LIGHT";
+    src: url("/fonts/ANJOMAN-LIGHT.TTF");
+}
+
+@font-face {
+    font-family: "ANJOMAN-MEDIUM";
+    src: url("/fonts/ANJOMAN-MEDIUM.TTF");
+}
+
+@font-face {
+    font-family: "ANJOMAN-REGULAR";
+    src: url("/fonts/ANJOMAN-REGULAR.TTF");
+}
+
+@font-face {
+    font-family: "ANJOMAN-SEMIBOLD";
+    src: url("/fonts/ANJOMAN-SEMIBOLD.TTF");
+}
+
+@font-face {
+    font-family: "ANJOMAN-THIN";
+    src: url("/fonts/ANJOMAN-THIN.TTF");
+}
+
+@font-face {
+    font-family: ANJOMAN-ULTRABOLD;
+    src: url("/fonts/ANJOMAN-ULTRABOLD.TTF");
+}
+
+body {
+    overflow-x: hidden !important;
+    font-family: ANJOMAN-REGULAR !important;
+}
+
+* {
+    box-sizing: border-box !important;
+    margin: 0;
+    padding: 0;
+}
+
+.containerCustom {
+    width: 1140px;
+}
